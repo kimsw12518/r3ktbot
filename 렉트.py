@@ -111,4 +111,3 @@ async def 노래멈춰(ctx):
         await ctx.send("지금 노래가 재생되지 않네요.")
 
 bot.run('token')
-
